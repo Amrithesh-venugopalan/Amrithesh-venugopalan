@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Amrithesh  
 
-<!--
-**Amrithesh-venugopalan/Amrithesh-venugopalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm an **Odoo Developer** passionate about building tailored solutions for businesses.  
+I specialize in:  
+- 🛠️ Custom Modules & Themes  
+- 🏬 POS Customization  
+- 🔗 API Integrations  
+- 📦 Data Migration  
+- 📚 Odoo Training & Consulting  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech Stack
+- **Languages:** Python, JavaScript, SQL  
+- **Frameworks/Tools:** Odoo, Docker, GitHub Actions  
+- **Databases:** PostgreSQL, MySQL  
+- **Other:** Linux, REST APIs  
+
+---
+
+## 📊 GitHub Stats
+![Amrithesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amrithesh-venugopalan&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrithesh-venugopalan&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+- 📧 Email: *your.email@example.com*  
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)  
+- 🌍 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+
+---
+✨ Thanks for visiting my profile! Feel free to explore my repos and reach out if you'd like to collaborate.
